@@ -1,2 +1,3 @@
 # Product-Recommendation-System
-This is a model based and popularity based product recommender system for e-commerce
+Using two models ( Model Based approach, and Popularity Based appeoach)
+this recommender system recommends top 10 product based on users preference, and top 10 most popular product.
